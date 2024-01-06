@@ -2,9 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
 
 body {
- background-color: black;
- font-family: 'lato', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: black;
+  font-family: "lato", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
